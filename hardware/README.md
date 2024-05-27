@@ -14,12 +14,12 @@ These files are used to 3D print the model. You will need slicer software to cre
 ### .f3d files
 These files are used to export the model into fusion360 to modify. 
 
-## [PCB]
+## [PCB](https://github.com/Harveyn4444/cubesat-reaction-wheel/tree/main/hardware/pcb)
 A custom PCB was created to contain the electronics and sensors for the CubeSat. This keeps everything neat and tidy and makes testing and operation much easier.
 
 ### Gerber files
 Gerber files are used to produce the actual PCBs. To design the schematics and PCBs I used [EasyEDA](https://easyeda.com/) where you can export the gerber files for production. To manufacture the PCBs I used [JLCPCB](https://jlcpcb.com/), which provide a high quality product at a very low cost (Use the cheapest shipping method that takes 2 weeks!). 
 
-## [Bill of Materials]
+## [Bill of Materials](https://github.com/Harveyn4444/cubesat-reaction-wheel/tree/main/hardware/bom)
 A BOM is included as not everything can be 3D printed. The exta hardware used will include links but anything similar shoudl work (Plus links could expire).
 
