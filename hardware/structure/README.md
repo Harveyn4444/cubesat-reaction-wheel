@@ -79,3 +79,8 @@ Infill: 30%
 Filament used: 20g
 Print Time: 1h21m *Using Prusa mini+ default speeds and settings **Each wall
 ```
+The walls have a 45 degree angle desgined in to ensure flush fitment, print with the chamfer facing upwards.
+
+<p align="center">
+<img src="https://github.com/Harveyn4444/cubesat-reaction-wheel/blob/main/assets/img/wall-joint.png" width = 40% height = 40% >
+</p>
