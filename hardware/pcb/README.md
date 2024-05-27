@@ -14,6 +14,9 @@ The gerber file is the production file for the PCB. Once assembled the example c
     <br clear="both"/>
     <p>
     <img align = "left" src="https://github.com/Harveyn4444/cubesat-reaction-wheel/blob/main/assets/img/pcb-real-3.png" width = 40% height = 40% > <img align = "right" src="https://github.com/Harveyn4444/cubesat-reaction-wheel/blob/main/assets/img/pcb-real-4.png" width = 40% height = 40% >
+            <br clear="both"/>
+        <p>
+    <img align = "left" src="https://github.com/Harveyn4444/cubesat-reaction-wheel/blob/main/assets/img/cubesat-pcbstack-1.png" width = 40% height = 40% > <img align = "right" src="https://github.com/Harveyn4444/cubesat-reaction-wheel/blob/main/assets/img/cubesat-pcbstack-2.png" width = 40% height = 40% >
 
 </p>
 
