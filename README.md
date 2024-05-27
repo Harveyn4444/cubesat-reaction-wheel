@@ -5,7 +5,7 @@
 
 The goal of the project was to create a CubeSat Reaction Wheel contained within 1U primarily using COTS components and open source solutions.
 
-##  Hardware
+##  [Hardware](https://github.com/Harveyn4444/cubesat-reaction-wheel/tree/main/hardware) 
 The hardware section is a combination of 3D printer files, PCB schematics and production files.
 
 The structure was cusotm made and can be reproduced using the stl files provided with recommended slicer parameters. 
@@ -13,7 +13,7 @@ The structure was cusotm made and can be reproduced using the stl files provided
 The custom PCB can be assembled with the production files and the Bill of Materials provided.
 
 
-## Code
+## [Code](https://github.com/Harveyn4444/cubesat-reaction-wheel/tree/main/code)
 
 ### Arduino / Microcontroller
 Example test code for the sensors used and example code to control the BLDC motor.
