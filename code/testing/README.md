@@ -31,3 +31,5 @@ Information about the Teensy 4.0 can be found on the webiste [here](https://www.
 <p align="center">
 <img src="https://github.com/Harveyn4444/cubesat-reaction-wheel/blob/main/assets/img/teensy-40-pinout.png" width = 40% height = 40% >
 </p>
+
+## Libraries
