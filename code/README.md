@@ -8,6 +8,14 @@ Code used by the Teensy to read data from sensors and communicate with the Simpl
 ## [Data Logging](https://github.com/Harveyn4444/cubesat-reaction-wheel/tree/main/code/data-logging)
 The code reads the serial port the microcontroller is connected to (shown in Arduino IDE) and stores this data in a CSV file. This data/csv file is stored in the data directory and is called again within the scripts. This is to keep the data organised and seperated form the main scripts. The CSV files are manually renamed/adjusted to reflect the parameters of the code in which it is recording.
 
+The python scripts make use of a virtual python enviroment and requires requirements.txt to be installed. The venv is local to each users own machine. Useful guides/documentation can be found at:
+
+```
+https://docs.python.org/3/library/venv.html
+https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
+https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/
+```
+
 ```
 serial-to-csv.py
 ```
