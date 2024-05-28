@@ -6,7 +6,7 @@ To be abvle to upload code to the Teensy 4.0, the board manager is needed to be 
 https://www.pjrc.com/teensy/package_teensy_index.json
 ```
 The Arduino IDE used was version 2.3.2.
-The Arduino IDE can be downlaoded [here](https://www.arduino.cc/en/software).
+The Arduino IDE can be downloaded [here](https://www.arduino.cc/en/software).
 
 
 
